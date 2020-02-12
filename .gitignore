@@ -42,4 +42,9 @@ Makefile.in
 /build
 /lib
 project/msvc9/DebugEP
-.metadata/
+CMakeFiles/
+Makefile
+*.cmake
+*.nm
+*.objdump
+CMakeCache.txt
